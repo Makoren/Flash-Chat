@@ -1,3 +1,5 @@
+## The Firebase project for this app no longer exists.
+
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
 # Flash-Chat
